@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "AuPair app un lugar para leer, comentar y contar tus historias mas secretas en esta experiencia."
   }
 }
